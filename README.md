@@ -3,6 +3,9 @@ This repository documents my journey and progress during the ITI Business Intell
 
 [![Lab 1](https://user-images.githubusercontent.com/91261507/219959672-bb44fc43-727c-46df-915d-1752b33b7210.jpg)](https://app.powerbi.com/view?r=eyJrIjoiNzc0YTRkOGItYWYxNS00MmRmLTkzZDktZDZmNmY0NGQ2MTliIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
+[![Lab 2](https://user-images.githubusercontent.com/91261507/219961332-884a6506-0298-4a4d-9be9-63ca4afcecab.jpg)](https://app.powerbi.com/view?r=eyJrIjoiMTIwNWJmMDgtZjRhOS00MjJjLWIzYTMtNWMyMzc3YjM4ZTA3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+
 
 
 
